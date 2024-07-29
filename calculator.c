@@ -10,8 +10,6 @@ int main()
     scanf("%d", &num1);
     printf("Enter second number: ");
     scanf("%d", &num2);
-    //printf("Enter your choice (1 for addition, 2 for subtraction, 3 for multiplication
-    //, 4  division) ");
     printf("Enter your choice (1 for addition, 2 for subtraction, 3 for multiplication, 4 for divisitoion)\n");
     scanf("%d", &choice);
     switch (choice)

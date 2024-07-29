@@ -14,4 +14,4 @@ Prerequisites
 
     C Compiler (e.g., GCC)
     Text editor or IDE for writing and editing code
-____________________________________________________ sk-rock
+____________________________________________________ Skrock0

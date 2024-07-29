@@ -1,9 +1,6 @@
 // calculator
-// 1.0.0
-// 2023-02-20T14:30:00.000Z
 // package: calculator
 // sources:
-// - https://github.com/your-username/your-repo-name
 #include <stdio.h>
 
 int main()
